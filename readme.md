@@ -23,4 +23,4 @@
 
 4. Write a HTML document that
    a) has background colour - #FB2576
-   b) heading ( Lorem ipsum ) using <h1> tag with text colour - #150050 ```
+   b) heading ( Lorem ipsum ) using <h1> tag with text colour - #150050
