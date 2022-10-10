@@ -1,3 +1,4 @@
+```text
 1. write a HTML document that displays your name using the <h2> tag and your stream in <h4> tag.
 
 2. write a HTML document that
@@ -22,4 +23,4 @@
 
 4. Write a HTML document that
    a) has background colour - #FB2576
-   b) heading ( Lorem ipsum ) using <h1> tag with text colour - #150050
+   b) heading ( Lorem ipsum ) using <h1> tag with text colour - #150050 ```
